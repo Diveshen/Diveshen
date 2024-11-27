@@ -1,5 +1,3 @@
-## Software Engineer
-
 ## Technologies & Tools
 - **Programming**: C#, SQL, XAML, Python, TypeScript, JavaScript
 - **Software Architecture**: MVC, MVVM

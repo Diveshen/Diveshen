@@ -2,16 +2,13 @@
 
 I am a performance-driven software engineer with a strong passion for automation and workflow optimization. With experience spanning across front-end, middle-tier, back-end, and mobile development, I bring a versatile skill set to every project I undertake.
 Highlights:
-
-    Successfully delivered cross-platform mobile applications using Xamarin Forms, later upgraded to MAUI, with apps available on both iOS and Android app stores.
-    Published a Unity game on the Apple App Store, showcasing my versatility in game development.
-    Proficient in automating workflows to streamline development and operational processes.
+- Successfully delivered cross-platform mobile applications using Xamarin Forms, later upgraded to MAUI, with apps available on both iOS and Android app stores.
+- Published a Unity game on the Apple App Store, showcasing my versatility in game development.
+- Proficient in automating workflows to streamline development and operational processes.
 
 Current Focus:
-
-    Exploring Blazor, React Native, and Flutter frameworks for efficient and scalable mobile application development.
-    Actively working on updating an app to Flutter for enhanced performance and user experience.
-    Developing an Azure serverless backend solution to modernize infrastructure with a focus on scalability and cost-efficiency.
+- Exploring Blazor, React Native, and Flutter frameworks for efficient and scalable mobile application development.
+- Developing an Azure serverless backend solution to modernize infrastructure with a focus on scalability and cost-efficiency.
 
 ## Tech Stack
 

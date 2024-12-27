@@ -25,3 +25,5 @@ Current Focus:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![XAML](https://img.shields.io/badge/XAML-%23006EB6.svg?style=for-the-badge&logo=xaml&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/AdMob-%23EA4335.svg?style=for-the-badge&logo=admob&logoColor=white)

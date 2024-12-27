@@ -10,6 +10,20 @@ Current Focus:
 - Exploring Blazor, React Native, and Flutter frameworks for efficient and scalable mobile application development.
 - Developing an Azure serverless backend solution to modernize infrastructure with a focus on scalability and cost-efficiency.
 
+## 📱 My Apps
+
+### 🚀 [uBudget](https://apps.apple.com/us/app/ubudget/id1464366693)
+**Description**: uBudget is a budgeting app that helps users track their expenses and manage their budget in an intuitive and lightweight design."  
+**Technologies Used**: Xamarin Forms → Upgraded to MAUI | SQLite | Firebase | Admob  
+[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/us/app/ubudget/id1464366693)  
+
+---
+
+### 🎮 [uBrick Breaker Emma](https://apps.apple.com/us/app/id1619948694)
+**Description**: A brick breaker game with a twist. The AI changes the stage in real time to distract a player."  
+**Technologies Used**: Unity | AdMob | Firebase  
+[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/us/app/id1619948694)
+
 ## Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

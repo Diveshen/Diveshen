@@ -14,7 +14,7 @@ Current Focus:
 
 ### 🚀 [uBudget](https://apps.apple.com/us/app/ubudget/id1464366693)
 **Description**: uBudget is a budgeting app that helps users track their expenses and manage their budget in an intuitive and lightweight design."  
-**Technologies Used**: Xamarin Forms → Upgraded to MAUI | SQLite | Firebase | Admob  
+**Technologies Used**: Xamarin Forms → Upgraded to MAUI → Upgraded to Flutter | SQLite | Firebase | Admob
 [![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/us/app/ubudget/id1464366693)  
 
 ---
